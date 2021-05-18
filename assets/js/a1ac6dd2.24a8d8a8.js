@@ -1,0 +1,1 @@
+(self.webpackChunkwoostore_pro_documentation=self.webpackChunkwoostore_pro_documentation||[]).push([[3252],{3610:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/woostore_pro_documentation/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/woostore_pro_documentation/blog/tags/docusaurus"}')}}]);
