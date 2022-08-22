@@ -1,0 +1,1 @@
+(self.webpackChunkwoostore_pro_documentation=self.webpackChunkwoostore_pro_documentation||[]).push([[344],{9031:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/woostore_pro/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/woostore_pro/blog/tags/hello"}')}}]);

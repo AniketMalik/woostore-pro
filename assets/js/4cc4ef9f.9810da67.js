@@ -1,0 +1,1 @@
+(self.webpackChunkwoostore_pro_documentation=self.webpackChunkwoostore_pro_documentation||[]).push([[5903],{2510:function(o){"use strict";o.exports=JSON.parse('{"permalink":"/woostore_pro/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
